@@ -38,5 +38,7 @@ A predictive analytics project that leverages historical data and machine learni
 - Data Visualization
 - Predictive Modeling
 
-## 👨‍💻 Author
-Created as a Data Analytics and Machine Learning project.
+## Output
+<img width="1882" height="1012" alt="Screenshot 2026-10-28 184518" src="https://github.com/user-attachments/assets/d88fc900-14c7-42a2-b776-47c28c6def65" />
+
+
